@@ -149,4 +149,5 @@ Feedstock Maintainers
 
 * [@DirkEilander](https://github.com/DirkEilander/)
 * [@Leynse](https://github.com/Leynse/)
+* [@roeldegoede](https://github.com/roeldegoede/)
 
